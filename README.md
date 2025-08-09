@@ -44,7 +44,7 @@ For the FPGA version, first connect the FPGA development board and follow these 
    export DM_MODE=DMA
    ```
 
-4.  Build hardware and software:
+4. Build hardware and software:
 
    ```
    cd ../Accelerated_Algorithmic_Trading/build
